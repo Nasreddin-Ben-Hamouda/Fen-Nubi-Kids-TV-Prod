@@ -1,0 +1,9 @@
+# API keys — never commit
+.env
+config.json
+
+# Generation logs and scratch
+*.log
+old/
+__pycache__/
+*.pyc

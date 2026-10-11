@@ -1,0 +1,106 @@
+{
+  "shots": [
+    {
+      "shot_id": "shot_001",
+      "scene_number": 1,
+      "scene_title": "Snack Time!",
+      "shot_number_in_scene": 1,
+      "duration_seconds": 8,
+      "characters": [
+        "char_001",
+        "char_002"
+      ],
+      "background": "bg_001",
+      "action": "Fen and Nubi run back into the garden showing their clean, shiny paws and wings; Fen spots a small wicker picnic basket on the grass beside the sandbox and points at it",
+      "camera_movement": "Wide shot, gentle slow push in as they reach the basket",
+      "dialogue": "Fen: \"Clean paws… snack time!\" / Nubi: \"Yay, snack time!\"",
+      "mood": "Bright, excited",
+      "veo_prompt": "Pixar-style 3D cartoon for toddlers, soft rounded shapes, big glossy eyes, pastel saturated colors, warm sunny lighting, shallow depth of field, smooth motion, clean bright background, vertical 9:16, no text, no logos, no subtitles, wide shot, gentle slow push in as they reach the basket, Fen, a cute orange baby fox with big ears, white chest, teal t-shirt with a yellow star and big curious eyes and Nubi, a tiny perfectly round ball-shaped teal baby bird with a small yellow crest, yellow beak and yellow belly run happily into a sunny backyard garden with a wooden sandbox, soft green lawn, rounded flowering bushes and a white picket fence, proudly showing their clean shiny paws and wings, a small wicker picnic basket sits on the grass beside the sandbox, Fen points at the basket and says \"Clean paws... snack time!\", Nubi bounces and squeaks \"Yay, snack time!\", soft gentle ukulele and glockenspiel background music, bright friendly child voices speaking clearly, Fen calm and warm, Nubi squeaky and fast, no singing, bright, excited mood, 8 seconds"
+    },
+    {
+      "shot_id": "shot_002",
+      "scene_number": 2,
+      "scene_title": "Only One?",
+      "shot_number_in_scene": 1,
+      "duration_seconds": 8,
+      "characters": [
+        "char_001",
+        "char_002"
+      ],
+      "background": "bg_001",
+      "action": "Fen opens the lid of the wicker picnic basket; inside is just one big shiny red strawberry; both peek in, then look at each other",
+      "camera_movement": "Medium shot from slightly above the basket, gentle tilt up to their faces",
+      "dialogue": "Nubi: \"Only one strawberry?\"",
+      "mood": "Curious, a little uh-oh",
+      "veo_prompt": "Pixar-style 3D cartoon for toddlers, soft rounded shapes, big glossy eyes, pastel saturated colors, warm sunny lighting, shallow depth of field, smooth motion, clean bright background, vertical 9:16, no text, no logos, no subtitles, medium shot from slightly above the basket, gentle tilt up to their faces, in a sunny backyard garden with a wooden sandbox, soft green lawn, rounded flowering bushes and a white picket fence, Fen, a cute orange baby fox with big ears, white chest, teal t-shirt with a yellow star and big curious eyes lifts the lid of a small wicker picnic basket on the grass while Nubi, a tiny perfectly round ball-shaped teal baby bird with a small yellow crest, yellow beak and yellow belly peeks in beside him, inside there is only one big shiny red strawberry, they look at each other in surprise and Nubi says \"Only one strawberry?\", soft gentle ukulele and glockenspiel background music, bright friendly child voices speaking clearly, Fen calm and warm, Nubi squeaky and fast, no singing, curious, a little uh-oh mood, 8 seconds"
+    },
+    {
+      "shot_id": "shot_003",
+      "scene_number": 3,
+      "scene_title": "Mine!",
+      "shot_number_in_scene": 1,
+      "duration_seconds": 8,
+      "characters": [
+        "char_001",
+        "char_002"
+      ],
+      "background": "bg_001",
+      "action": "Fen holds the big red strawberry high above his head with a cheeky grin; beside him Nubi's crest droops and her big eyes look sad",
+      "camera_movement": "Medium two-shot, static",
+      "dialogue": "Fen: \"Mine! All mine!\" / Nubi: \"Oh…\"",
+      "mood": "Playful tension, a sad beat",
+      "veo_prompt": "Pixar-style 3D cartoon for toddlers, soft rounded shapes, big glossy eyes, pastel saturated colors, warm sunny lighting, shallow depth of field, smooth motion, clean bright background, vertical 9:16, no text, no logos, no subtitles, medium two-shot, static, in a sunny backyard garden with a wooden sandbox, soft green lawn, rounded flowering bushes and a white picket fence, Fen, a cute orange baby fox with big ears, white chest, teal t-shirt with a yellow star and big curious eyes holds one big red strawberry high above his head with a cheeky playful grin and says \"Mine! All mine!\", next to him Nubi, a tiny perfectly round ball-shaped teal baby bird with a small yellow crest, yellow beak and yellow belly looks up at it, her yellow crest droops and her big eyes turn sad as she says softly \"Oh...\", soft gentle ukulele and glockenspiel background music, bright friendly child voices speaking clearly, Fen calm and warm, Nubi squeaky and fast, no singing, playful tension, a sad beat mood, 8 seconds"
+    },
+    {
+      "shot_id": "shot_004",
+      "scene_number": 4,
+      "scene_title": "Fen Has an Idea",
+      "shot_number_in_scene": 1,
+      "duration_seconds": 8,
+      "characters": [
+        "char_001",
+        "char_002"
+      ],
+      "background": "bg_001",
+      "action": "Fen looks at the strawberry, then at sad Nubi, thinks, smiles, carefully splits the strawberry into two halves and holds one half out to Nubi",
+      "camera_movement": "Slow zoom in on Fen's thoughtful face, then a gentle reveal of the two strawberry halves",
+      "dialogue": "Fen: \"Hmm… Let's share it, Nubi!\"",
+      "mood": "Thoughtful turning to warm",
+      "veo_prompt": "Pixar-style 3D cartoon for toddlers, soft rounded shapes, big glossy eyes, pastel saturated colors, warm sunny lighting, shallow depth of field, smooth motion, clean bright background, vertical 9:16, no text, no logos, no subtitles, slow zoom in on Fen's thoughtful face, then a gentle reveal of the two strawberry halves, in a sunny backyard garden with a wooden sandbox, soft green lawn, rounded flowering bushes and a white picket fence, Fen, a cute orange baby fox with big ears, white chest, teal t-shirt with a yellow star and big curious eyes looks at the red strawberry in his paws and then at sad Nubi, a tiny perfectly round ball-shaped teal baby bird with a small yellow crest, yellow beak and yellow belly, he thinks for a moment, his face lights up with a kind smile, he gently splits the strawberry into two halves and holds one half out to Nubi, saying warmly \"Hmm... Let's share it, Nubi!\", soft gentle ukulele and glockenspiel background music, bright friendly child voices speaking clearly, Fen calm and warm, Nubi squeaky and fast, no singing, thoughtful turning to warm mood, 8 seconds"
+    },
+    {
+      "shot_id": "shot_005",
+      "scene_number": 5,
+      "scene_title": "Sharing Tastes Better",
+      "shot_number_in_scene": 1,
+      "duration_seconds": 8,
+      "characters": [
+        "char_001",
+        "char_002"
+      ],
+      "background": "bg_001",
+      "action": "Nubi's crest pops back up; they sit side by side on the edge of the sandbox munching strawberry halves, juice on their cheeks, giggling",
+      "camera_movement": "Medium close-up two-shot, static, floating flower petals",
+      "dialogue": "Nubi: \"Mmm! Sharing tastes even better!\" / Fen: \"Yummy!\"",
+      "mood": "Joyful, cozy",
+      "veo_prompt": "Pixar-style 3D cartoon for toddlers, soft rounded shapes, big glossy eyes, pastel saturated colors, warm sunny lighting, shallow depth of field, smooth motion, clean bright background, vertical 9:16, no text, no logos, no subtitles, medium close-up two-shot, static, floating flower petals, Fen, a cute orange baby fox with big ears, white chest, teal t-shirt with a yellow star and big curious eyes and Nubi, a tiny perfectly round ball-shaped teal baby bird with a small yellow crest, yellow beak and yellow belly sit side by side on the wooden edge of the sandbox in a sunny backyard garden with a wooden sandbox, soft green lawn, rounded flowering bushes and a white picket fence, each happily munching half of a red strawberry, a little juice on their cheeks, Nubi's yellow crest pops back up, soft flower petals float by, Nubi squeaks \"Mmm! Sharing tastes even better!\" and Fen laughs \"Yummy!\", soft gentle ukulele and glockenspiel background music, bright friendly child voices speaking clearly, Fen calm and warm, Nubi squeaky and fast, no singing, joyful, cozy mood, 8 seconds"
+    },
+    {
+      "shot_id": "shot_006",
+      "scene_number": 6,
+      "scene_title": "Sharing Is Caring!",
+      "shot_number_in_scene": 1,
+      "duration_seconds": 8,
+      "characters": [
+        "char_001",
+        "char_002"
+      ],
+      "background": "bg_001",
+      "action": "Fen, wearing his teal t-shirt with a yellow star, puts an arm around Nubi; both face the camera and wave goodbye; little heart-shaped sparkles twinkle at the edges of the frame",
+      "camera_movement": "Front-facing medium close-up, characters looking into the lens, gentle slow zoom out",
+      "dialogue": "Fen & Nubi: \"Sharing is caring! Bye-bye!\"",
+      "mood": "Warm, happy goodbye",
+      "veo_prompt": "Pixar-style 3D cartoon for toddlers, soft rounded shapes, big glossy eyes, pastel saturated colors, warm sunny lighting, shallow depth of field, smooth motion, clean bright background, vertical 9:16, no text, no logos, no subtitles, front-facing medium close-up, characters looking into the lens, gentle slow zoom out, Fen, a cute orange baby fox with big ears, white chest, teal t-shirt with a yellow star and big curious eyes puts his arm around Nubi, a tiny perfectly round ball-shaped teal baby bird with a small yellow crest, yellow beak and yellow belly in a sunny backyard garden with a wooden sandbox, soft green lawn, rounded flowering bushes and a white picket fence, Fen clearly wears his teal t-shirt with a yellow star the whole time, both face the camera, smile and wave goodbye, little heart-shaped sparkles twinkle at the edges of the frame, together they say \"Sharing is caring! Bye-bye!\", soft gentle ukulele and glockenspiel background music, bright friendly child voices speaking clearly, Fen calm and warm, Nubi squeaky and fast, no singing, warm, happy goodbye mood, 8 seconds"
+    }
+  ]
+}

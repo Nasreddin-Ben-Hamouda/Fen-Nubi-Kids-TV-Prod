@@ -1,0 +1,30 @@
+{
+  "backgrounds": [
+    {
+      "bg_id": "bg_001",
+      "name": "Garden Sandbox",
+      "description": "Sunny backyard garden with a wooden sandbox of damp brown sand",
+      "prompt": "Exterior sunny backyard garden in the morning, a low square wooden sandbox in the foreground filled with damp brown sand, a small toy bucket and spade in the sand, soft green lawn, rounded bushes, pastel pink and yellow flowers, little white picket fence, clear light-blue sky with puffy white clouds, warm golden sunshine, cheerful and inviting mood, vertical 9:16 composition with the sandbox in the lower half and open space for small characters, Pixar-style 3D cartoon for toddlers, soft rounded shapes, pastel saturated colors, warm sunny lighting, shallow depth of field, clean bright background, no text, no logos, 3D animated environment, cinematic wide shot, no characters, high detail, Pixar-style rendering",
+      "scenes_used_in": [
+        1
+      ],
+      "image_url": "https://i.ibb.co/R4HZHNr5/3f12cd48bab9.png"
+    },
+    {
+      "bg_id": "bg_002",
+      "name": "Pastel Bathroom Sink",
+      "description": "Bright pastel bathroom with a low rounded sink, mirror, step stool, soap pump and fluffy towel",
+      "prompt": "Interior bright pastel bathroom in the morning, a low rounded white sink with a shiny chrome faucet, a round mirror above the sink, a small pastel-yellow step stool in front of the sink, a pastel-pink soap pump bottle on the sink edge, a fluffy mint-green towel hanging on a hook beside the sink, soft mint and cream tiled walls, a window letting in warm sunlight, a few floating soap bubbles, clean, cozy and cheerful mood, vertical 9:16 composition centered on the sink and mirror with room for small characters on the stool, Pixar-style 3D cartoon for toddlers, soft rounded shapes, pastel saturated colors, warm sunny lighting, shallow depth of field, clean bright background, no text, no logos, 3D animated environment, cinematic wide shot, no characters, high detail, Pixar-style rendering",
+      "scenes_used_in": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "image_url": "https://i.ibb.co/G3tbbrbB/d4b060092c78.png"
+    }
+  ]
+}
