@@ -1,0 +1,37 @@
+{
+  "characters": [
+    {
+      "character_id": "char_001",
+      "name": "Fen",
+      "description": "Cute orange baby fox in a teal t-shirt with a yellow star; curious and a little calmer",
+      "prompt": "Fen, a cute orange baby fox toddler, small chubby rounded body, soft fluffy orange fur, big pointed ears with cream-colored inner fur, white chest and white muzzle, white-tipped fluffy tail, big glossy curious brown eyes, small black nose, wearing a teal t-shirt with a single yellow star on the front, standing upright on two legs in a neutral friendly pose with a gentle smile, small rounded paws relaxed at his sides, front view, Pixar-style 3D cartoon for toddlers, soft rounded shapes, big glossy eyes, pastel saturated colors, warm sunny lighting, no text, no logos, 3D animated character, Pixar-style rendering, full body, character reference sheet, white background, high detail, soft lighting",
+      "scenes_appearing": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "image_url": "https://i.ibb.co/HL8jg1sj/430fb1ed20a7.png"
+    },
+    {
+      "character_id": "char_002",
+      "name": "Nubi",
+      "description": "Tiny round teal baby bird with a yellow crest, beak and belly; cheerful and bouncy",
+      "prompt": "Nubi, a tiny round teal baby bird, almost ball-shaped plump body, soft fluffy teal feathers, small tuft of yellow crest feathers on top of the head, small rounded yellow beak, bright yellow belly, two small teal wings, tiny yellow feet, big glossy cheerful black eyes with sparkly highlights, happy open-beak smile, standing in a neutral cheerful pose with wings slightly raised, front view, Pixar-style 3D cartoon for toddlers, soft rounded shapes, big glossy eyes, pastel saturated colors, warm sunny lighting, no text, no logos, 3D animated character, Pixar-style rendering, full body, character reference sheet, white background, high detail, soft lighting",
+      "scenes_appearing": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8
+      ],
+      "image_url": "https://i.ibb.co/YFgw6G8C/d82d811579c5.png"
+    }
+  ]
+}

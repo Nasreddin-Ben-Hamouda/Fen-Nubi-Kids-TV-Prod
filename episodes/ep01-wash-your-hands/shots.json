@@ -1,0 +1,139 @@
+{
+  "shots": [
+    {
+      "shot_id": "shot_001",
+      "scene_number": 1,
+      "scene_title": "Muddy Fun",
+      "shot_number_in_scene": 1,
+      "duration_seconds": 5,
+      "characters": [
+        "char_001",
+        "char_002"
+      ],
+      "background": "bg_001",
+      "action": "Fen and Nubi play in the sandbox with brown, muddy paws and wings; Fen laughs and holds up his dirty paws",
+      "camera_movement": "Medium shot at eye level, gentle slow zoom in on Fen's raised paws",
+      "dialogue": "Nubi (funny, squeaky): \"Oh no, dirty hands!\"",
+      "mood": "Playful, giggly",
+      "veo_prompt": "Pixar-style 3D cartoon for toddlers, soft rounded shapes, big glossy eyes, pastel saturated colors, warm sunny lighting, shallow depth of field, smooth motion, clean bright background, vertical 9:16, no text, no logos, medium shot at eye level, gentle slow zoom in on Fen's raised paws, Fen, a cute orange baby fox with big ears, white chest, teal t-shirt with a yellow star and big curious eyes, and Nubi, a tiny round teal baby bird with a small yellow crest, yellow beak, yellow belly, cheerful, play in a sunny backyard garden with a wooden sandbox of damp brown sand, green lawn, flowering bushes and a white picket fence; their paws and wings are covered in brown mud; Fen laughs and proudly holds up his muddy paws while Nubi gasps and says in a funny squeaky voice \"Oh no, dirty hands!\", cheerful kids song at about 100 BPM with glockenspiel and ukulele, bright friendly child voices, playful, giggly mood, 5 seconds"
+    },
+    {
+      "shot_id": "shot_002",
+      "scene_number": 2,
+      "scene_title": "Race to the Sink",
+      "shot_number_in_scene": 1,
+      "duration_seconds": 5,
+      "characters": [
+        "char_001",
+        "char_002"
+      ],
+      "background": "bg_002",
+      "action": "Fen hops and Nubi flutters as they hurry to the sink; ends on a close-up of the faucet",
+      "camera_movement": "Gentle pan following them to the sink, settling into a close-up of the faucet",
+      "dialogue": "Verse: \"Mud on my paws and mud on my wings, let's wash it all off, wash everything!\"",
+      "mood": "Energetic, bouncy",
+      "veo_prompt": "Pixar-style 3D cartoon for toddlers, soft rounded shapes, big glossy eyes, pastel saturated colors, warm sunny lighting, shallow depth of field, smooth motion, clean bright background, vertical 9:16, no text, no logos, gentle pan following them to the sink, settling into a close-up of the faucet, Fen, a cute orange baby fox with big ears, white chest, teal t-shirt with a yellow star and big curious eyes, hops happily and Nubi, a tiny round teal baby bird with a small yellow crest, yellow beak, yellow belly, cheerful, flutters beside him as they hurry to the sink in a bright pastel mint bathroom with a low white sink, shiny chrome faucet, round mirror, yellow step stool, pink soap pump and fluffy mint towel, the shot settles on the shiny faucet; they sing \"Mud on my paws and mud on my wings, let's wash it all off, wash everything!\", cheerful kids song at about 100 BPM with glockenspiel and ukulele, bright friendly child voices, energetic, bouncy mood, 5 seconds"
+    },
+    {
+      "shot_id": "shot_003",
+      "scene_number": 3,
+      "scene_title": "Bubbles Everywhere",
+      "shot_number_in_scene": 1,
+      "duration_seconds": 8,
+      "characters": [
+        "char_001",
+        "char_002"
+      ],
+      "background": "bg_002",
+      "action": "Fen turns on the faucet and wets his paws, soap bubbles rise, Nubi blows a big shimmering bubble",
+      "camera_movement": "Static medium shot at sink height, bubbles drifting upward",
+      "dialogue": "Chorus: \"Wash, wash, wash your hands, bubbles, bubbles, everywhere! Rub-a-dub, rub-a-dub, one, two, three, clean hands, happy me!\"",
+      "mood": "Joyful, sing-along",
+      "veo_prompt": "Pixar-style 3D cartoon for toddlers, soft rounded shapes, big glossy eyes, pastel saturated colors, warm sunny lighting, shallow depth of field, smooth motion, clean bright background, vertical 9:16, no text, no logos, static medium shot at sink height, bubbles drifting upward, Fen, a cute orange baby fox with big ears, white chest, teal t-shirt with a yellow star and big curious eyes, turns on the faucet and wets his paws at the sink in a bright pastel mint bathroom with a low white sink, shiny chrome faucet, round mirror, yellow step stool, pink soap pump and fluffy mint towel, fluffy soap bubbles rise into the air, Nubi, a tiny round teal baby bird with a small yellow crest, yellow beak, yellow belly, cheerful, blows one big shimmering rainbow bubble; both sing the chorus \"Wash, wash, wash your hands, bubbles, bubbles, everywhere! Rub-a-dub, rub-a-dub, one, two, three, clean hands, happy me!\", cheerful kids song at about 100 BPM with glockenspiel and ukulele, bright friendly child voices, joyful, sing-along mood, 8 seconds"
+    },
+    {
+      "shot_id": "shot_004",
+      "scene_number": 4,
+      "scene_title": "Scrub Scrub",
+      "shot_number_in_scene": 1,
+      "duration_seconds": 6,
+      "characters": [
+        "char_001"
+      ],
+      "background": "bg_002",
+      "action": "Extreme close-up of Fen's paws scrubbing; colorful bubbles pop with tiny glitter sparkles",
+      "camera_movement": "Extreme close-up, very slow push in, shallow depth of field",
+      "dialogue": "Verse: \"Front and back and in between, make them shiny, make them clean!\"",
+      "mood": "Satisfying, rhythmic",
+      "veo_prompt": "Pixar-style 3D cartoon for toddlers, soft rounded shapes, big glossy eyes, pastel saturated colors, warm sunny lighting, shallow depth of field, smooth motion, clean bright background, vertical 9:16, no text, no logos, extreme close-up, very slow push in, shallow depth of field, extreme close-up of the small orange furry paws of Fen, a cute orange baby fox with big ears, white chest, teal t-shirt with a yellow star and big curious eyes, scrubbing with soapy foam, front and back and between the fingers, colorful soap bubbles pop with tiny glitter sparkles, softly blurred pastel bathroom sink behind; a child voice sings \"Front and back and in between, make them shiny, make them clean!\", cheerful kids song at about 100 BPM with glockenspiel and ukulele, bright friendly child voices, satisfying, rhythmic mood, 6 seconds"
+    },
+    {
+      "shot_id": "shot_005",
+      "scene_number": 5,
+      "scene_title": "Mirror Dance",
+      "shot_number_in_scene": 1,
+      "duration_seconds": 6,
+      "characters": [
+        "char_001",
+        "char_002"
+      ],
+      "background": "bg_002",
+      "action": "Fen and Nubi sing and dance on the stool in front of the mirror while bubbles float around them",
+      "camera_movement": "Medium shot, static with a very gentle sway; reflections visible in the mirror",
+      "dialogue": "Verse: \"Count to twenty, sing along, wash away the germs so strong!\"",
+      "mood": "Silly, dancing fun",
+      "veo_prompt": "Pixar-style 3D cartoon for toddlers, soft rounded shapes, big glossy eyes, pastel saturated colors, warm sunny lighting, shallow depth of field, smooth motion, clean bright background, vertical 9:16, no text, no logos, medium shot, static with a very gentle sway; reflections visible in the mirror, Fen, a cute orange baby fox with big ears, white chest, teal t-shirt with a yellow star and big curious eyes, and Nubi, a tiny round teal baby bird with a small yellow crest, yellow beak, yellow belly, cheerful, dance happily on a yellow step stool in front of the round mirror in a bright pastel mint bathroom with a low white sink, shiny chrome faucet, round mirror, yellow step stool, pink soap pump and fluffy mint towel, their reflections dancing in the mirror, soap bubbles floating all around; they sing \"Count to twenty, sing along, wash away the germs so strong!\", cheerful kids song at about 100 BPM with glockenspiel and ukulele, bright friendly child voices, silly, dancing fun mood, 6 seconds"
+    },
+    {
+      "shot_id": "shot_006",
+      "scene_number": 6,
+      "scene_title": "Rinse and Shine",
+      "shot_number_in_scene": 1,
+      "duration_seconds": 8,
+      "characters": [
+        "char_001",
+        "char_002"
+      ],
+      "background": "bg_002",
+      "action": "Water rinses the foam away; close-up of clean, shiny paws with little stars sparkling around them",
+      "camera_movement": "Medium shot easing into a close-up of the clean paws, slow zoom",
+      "dialogue": "Chorus: \"Wash, wash, wash your hands, bubbles, bubbles, everywhere! Rub-a-dub, rub-a-dub, one, two, three, clean hands, happy me!\"",
+      "mood": "Bright, proud, sparkly",
+      "veo_prompt": "Pixar-style 3D cartoon for toddlers, soft rounded shapes, big glossy eyes, pastel saturated colors, warm sunny lighting, shallow depth of field, smooth motion, clean bright background, vertical 9:16, no text, no logos, medium shot easing into a close-up of the clean paws, slow zoom, clear water from the faucet rinses the soap foam off the paws of Fen, a cute orange baby fox with big ears, white chest, teal t-shirt with a yellow star and big curious eyes, at the sink in a bright pastel mint bathroom with a low white sink, shiny chrome faucet, round mirror, yellow step stool, pink soap pump and fluffy mint towel, while Nubi, a tiny round teal baby bird with a small yellow crest, yellow beak, yellow belly, cheerful, cheers beside him, slowly easing into a close-up of clean shiny paws as little stars sparkle around them; both sing the chorus \"Wash, wash, wash your hands, bubbles, bubbles, everywhere! Rub-a-dub, rub-a-dub, one, two, three, clean hands, happy me!\", cheerful kids song at about 100 BPM with glockenspiel and ukulele, bright friendly child voices, bright, proud, sparkly mood, 8 seconds"
+    },
+    {
+      "shot_id": "shot_007",
+      "scene_number": 7,
+      "scene_title": "Fluffy Towel",
+      "shot_number_in_scene": 1,
+      "duration_seconds": 6,
+      "characters": [
+        "char_001",
+        "char_002"
+      ],
+      "background": "bg_002",
+      "action": "Fen and Nubi dry their paws and wings on a fluffy towel; Nubi waves a soft feather in the air and Fen laughs happily",
+      "camera_movement": "Medium two-shot, static, soft focus on the towel texture",
+      "dialogue": "Verse: \"Dry them, dry them, soft and warm, now we're ready, safe from harm!\"",
+      "mood": "Cozy, giggly",
+      "veo_prompt": "Pixar-style 3D cartoon for toddlers, soft rounded shapes, big glossy eyes, pastel saturated colors, warm sunny lighting, shallow depth of field, smooth motion, clean bright background, vertical 9:16, no text, no logos, medium two-shot, static, soft focus on the towel texture, Fen, a cute orange baby fox with big ears, white chest, teal t-shirt with a yellow star and big curious eyes, and Nubi, a tiny round teal baby bird with a small yellow crest, yellow beak, yellow belly, cheerful, dry their paws and wings on a fluffy mint towel beside the sink in a bright pastel mint bathroom with a low white sink, shiny chrome faucet, round mirror, yellow step stool, pink soap pump and fluffy mint towel, Nubi playfully waves a soft feather in the air and Fen laughs happily; they sing \"Dry them, dry them, soft and warm, now we're ready, safe from harm!\", cheerful kids song at about 100 BPM with glockenspiel and ukulele, bright friendly child voices, cozy, giggly mood, 6 seconds"
+    },
+    {
+      "shot_id": "shot_008",
+      "scene_number": 8,
+      "scene_title": "Clean Hands, Happy Me!",
+      "shot_number_in_scene": 1,
+      "duration_seconds": 6,
+      "characters": [
+        "char_001",
+        "char_002"
+      ],
+      "background": "bg_002",
+      "action": "Both hold their clean paws and wings up to the camera; Fen winks, Nubi waves, little heart-shaped stars twinkle at the edges",
+      "camera_movement": "Front-facing medium close-up, characters looking into the lens, gentle slow zoom out",
+      "dialogue": "Ending: \"Clean hands, happy me! Bye-bye!\" + outro sound",
+      "mood": "Warm, happy goodbye",
+      "veo_prompt": "Pixar-style 3D cartoon for toddlers, soft rounded shapes, big glossy eyes, pastel saturated colors, warm sunny lighting, shallow depth of field, smooth motion, clean bright background, vertical 9:16, no text, no logos, front-facing medium close-up, characters looking into the lens, gentle slow zoom out, Fen, a cute orange baby fox with big ears, white chest, teal t-shirt with a yellow star and big curious eyes, and Nubi, a tiny round teal baby bird with a small yellow crest, yellow beak, yellow belly, cheerful, face the camera in a bright pastel mint bathroom with a low white sink, shiny chrome faucet, round mirror, yellow step stool, pink soap pump and fluffy mint towel and proudly hold up their clean paws and wings, Fen winks and Nubi waves goodbye, little heart-shaped stars twinkle at the edges of the frame; they sing \"Clean hands, happy me! Bye-bye!\" followed by a cheerful outro jingle, cheerful kids song at about 100 BPM with glockenspiel and ukulele, bright friendly child voices, warm, happy goodbye mood, 6 seconds"
+    }
+  ]
+}
